@@ -12,10 +12,13 @@ In September 2020, I started an apprenticeship while undertaking [the Web Develo
 - [Project 3 - Integrate a mobile website with animations in CSS](https://ccr-g.github.io/OC_3-Integrate_a_mobile_website_with_animations_in_CSS/) <br>
 [Project repository](https://github.com/CCR-G/OC_3-Integrate_a_mobile_website_with_animations_in_CSS)
   
-- [Project 4 - Optimize an existing website](https://ccr-g.github.io/4_15112020/Fixed%20website/index.html) (On going) <br>
-[Project repository](https://github.com/CCR-G/4_15112020)
+- [Project 4 - Optimize an existing website](https://ccr-g.github.io/OC_4-Optimize_an_existing_website/Fixed%20website/) <br>
+[Project repository](https://github.com/CCR-G/OC_4-Optimize_an_existing_website)
 
-- Project 5 - Build an eCommerce Website
+- [Project 5 - Build an eCommerce Website](https://ccr-g.github.io/5_07012021/dist/) <br>
+[Project repository](https://github.com/CCR-G/5_07012021)
+
+- Project 6 - Build a Secure API for a Review App (On Going)
 
 
 ## freeCodeCamp JavaScript algorithms and data structures projects
