@@ -15,10 +15,11 @@ In September 2020, I started an apprenticeship while undertaking [the Web Develo
 - [Project 4 - Optimize an existing website](https://ccr-g.github.io/OC_4-Optimize_an_existing_website/Fixed%20website/) <br>
 [Project repository](https://github.com/CCR-G/OC_4-Optimize_an_existing_website)
 
-- [Project 5 - Build an eCommerce Website](https://ccr-g.github.io/5_07012021/dist/) <br>
-[Project repository](https://github.com/CCR-G/5_07012021)
+- [Project 5 - Build an eCommerce Website](https://ccr-g.github.io/OC_5-Build_an_e-commerce_website/dist/) <br>
+[Project repository](https://github.com/CCR-G/OC_5-Build_an_e-commerce_website)
 
-- Project 6 - Build a Secure API for a Review App (On Going)
+- Project 6 - Build a Secure API for a Review App (On Going) <br>
+[Project repository](https://github.com/CCR-G/6_14032021)
 
 
 ## freeCodeCamp JavaScript algorithms and data structures projects
