@@ -2,7 +2,7 @@
 
 ## OpenClassrooms - Web development course
 
-In September 2020, I started an apprenticeship while undertaking [the Web Development course on OpenClassrooms.com](https://openclassrooms.com/fr/paths)
+In September 2020, I started a one year apprenticeship while undertaking [the Web Development course at OpenClassrooms.com](https://openclassrooms.com/fr/paths). I completed these projects from September to June 2021 to become a graduated full-stack developper.
 
 - Project 1 - A Day in the Life of a Web Developer
 
@@ -18,13 +18,15 @@ In September 2020, I started an apprenticeship while undertaking [the Web Develo
 - [Project 5 - Build an eCommerce Website](https://ccr-g.github.io/OC_5-Build_an_e-commerce_website/dist/) <br>
 [Project repository](https://github.com/CCR-G/OC_5-Build_an_e-commerce_website)
 
-- Project 6 - Build a Secure API for a Review App (On Going) <br>
+- Project 6 - Build a Secure API for a Review App <br>
 [Project repository](https://github.com/CCR-G/6_14032021)
 
+- [Project 7 - Build a full-stack solution](https://ccr-g.github.io/7_09042021/) <br>
+[Project repository](https://github.com/CCR-G/7_09042021)
 
 ## freeCodeCamp JavaScript algorithms and data structures projects
 
-In the summer 2020 I undertook the [freeCodeCamp Javascript Algorithms projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/)
+In the summer 2020, just before I started my apprenticeship, I undertook the [freeCodeCamp Javascript Algorithms projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/)
 
 - [Palindrome Checker](https://ccr-g.github.io/FCC-JS_and_DS/palindrome/palindrome.html)
 - [Roman and Arabic Numeral Converter](https://ccr-g.github.io/FCC-JS_and_DS/roman-arabic-numeral-converter/roman-arabic-numeral-converter.html)
@@ -44,4 +46,4 @@ Semi-automatic Twitter account defining a French word every day (JS, InDesign, H
 Website about Japanese poetry (UX-UI, WordPress developement, writing and translation)
 
 - [Portfolio](https://www.camillecroquet.fr) <br>
-Portfolio mainly related to my time as a graphic designer (UX-UI, WordPress development)
+Portfolio mainly related to my time as a multimedia graphic designer (UX-UI, WordPress development)
